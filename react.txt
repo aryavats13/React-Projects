@@ -1,0 +1,6 @@
+jsx= javascript XML
+(same as js but can write html in js)(our web browser doesnt undertsand jsx so jsx->js) 
+jsx helps to find error easily
+babel=compiler for  react(translates jsx->js)
+
+in react we can create our own html elementt
