@@ -4,3 +4,6 @@ jsx helps to find error easily
 babel=compiler for  react(translates jsx->js)
 
 in react we can create our own html elementt
+
+state=> data connect to html
+when updated , updates the html

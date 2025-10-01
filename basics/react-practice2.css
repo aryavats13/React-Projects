@@ -1,0 +1,13 @@
+.MainBox{
+
+    width:500px;
+    height:400px;
+    margin:20px auto;
+    padding:20px;
+    Color:rgb(0, 0, 0);
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    background-color:rgb(245, 165, 223)
+}
